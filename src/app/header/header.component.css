@@ -1,0 +1,18 @@
+div
+{
+    padding: 1px;
+    background-color: goldenrod;
+}
+
+.header-block
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-task{
+    display: flex;
+    width: 200px;
+    margin-top: 30px;
+    justify-content: space-between;
+}
